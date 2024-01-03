@@ -1,4 +1,4 @@
-#RAG demo
+# RAG demo
 
 The purpose of this code snippet is to demonstrate the use of Large Language Models (LLMs) for extracting information from private datasets, utilizing Retrieval Augmented Generation (RAG).
 
